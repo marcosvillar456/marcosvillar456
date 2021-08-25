@@ -116,8 +116,7 @@
 <h2 align="left">👨🏻‍💻 Sobre mi:</h2>
 
 💻 Estudie en la Escuela tecnica Nº4 en la cual me recibi de Tecnico en Programacion,actualmente estoy terminando el curso de Soy Henry para recibirme de Full Stack y curando la carrera de Ingenieria en informatica en la UNAJ <br/>
-🚀 Always ready to collaborate for Dev Experiments<br/>
-🎯 Listening work proposals and projects <br /> <br />
+🚀 Escucho propuestas laborales o para proyectos :D<br /> <br />
 
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=marcosvillar456&show_icons=true&theme=radical)
