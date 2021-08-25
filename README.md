@@ -6,7 +6,7 @@
       width="30"  
     />  me llamo Marcos Villar 😊<br />
     <br />
-    Full Stack Web Developer 💻<br />
+    Full Stack Developer 💻<br />
     <br />
     <img align="center"z
       src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
@@ -15,7 +15,7 @@
     />
   </abc>
 </h2>
-<h2 align="left">🛠️  Technologies and Tools I use:</h2>
+<h2 align="left">🛠️Tecnologias que uso:</h2>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img 
@@ -113,7 +113,7 @@
   </a>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 Sobre mi:</h2>
 
 💻 I'm currently study in Henry <br/>
 🚀 Always ready to collaborate for Dev Experiments<br/>
