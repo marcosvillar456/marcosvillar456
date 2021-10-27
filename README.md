@@ -75,6 +75,7 @@
       <img src="https://img.icons8.com/dusk/35/000000/api-settings.png"/>
     </td>
 </table>
-
-![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=marcosvillar456&show_icons=true&theme=radical)
+    <div align="center">
+        ![Anurag's GitHub
+        stats](https://github-readme-stats.vercel.app/api?username=marcosvillar456&show_icons=true&theme=radical)
+    </div>
