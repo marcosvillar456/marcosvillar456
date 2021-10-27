@@ -75,24 +75,6 @@
       <img src="https://img.icons8.com/dusk/35/000000/api-settings.png"/>
     </td>
 </table>
-### Makelaar
-#### Full Stack Group Project
 
-
-
-This was my group project in Henry's bootcamp.
-
-
-<p align="center">
-<img align="center" src="https://i.imgur.com/WJRxv5q.png" width="45%" style="margin:10px"/>
-<img align="center" src="https://i.imgur.com/Wu90Kia.png" width="45%" style="margin:10px"/>
-<img align="center" src="https://i.imgur.com/4cH9qi1.png" width="45%"/>
-<img align="center" src="https://i.imgur.com/jTV8gBs.png" width="45%"/>
-<img align="center" src="https://i.imgur.com/pCC9dkx.png" width="45%"/>
-    
-</p>
-
-#### Video presentation [here](https://www.youtube.com/watch?v=ymsuwoBvcvI)
-#### Repository link [here](https://github.com/Simon834/Makelaar)
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=marcosvillar456&show_icons=true&theme=radical)
