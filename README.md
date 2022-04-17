@@ -1,5 +1,4 @@
-<h2 align="center">
-    <br />
+<h1 align="center">
     <div>
     ¡Hola!  Soy Marcos Villar, FrontEnd developer   <img 
      src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"
@@ -7,12 +6,7 @@
     />👨🏻‍💻
     </div>
     <br />
-    <img align="center"
-      src="imagen.png"
-      alt="Coder GIF"
-      width="500"
-    />
-</h2>
+</h1>
 <br/>
 <h2 align="left">👨🏻‍💻 Sobre mi:</h2>
 💻 Me recibi de <b>Tecnico en Programacion</b>, actualmente estoy terminando el curso de <b>SoyHenry</b> para recibirme de <b>Full Stack</b> y curando la carrera de <b>Ingenieria en informatica</b> en la UNAJ .<br/>
