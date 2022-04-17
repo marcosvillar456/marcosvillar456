@@ -5,9 +5,7 @@
     />👨🏻‍💻
 </h1>
 <br/>
-<h2 align="left">👨🏻‍💻 Sobre mi:</h2>
-💻 Me recibi de <b>Tecnico en Programacion</b>, actualmente estoy terminando el curso de <b>SoyHenry</b> para recibirme de <b>Full Stack</b> y curando la carrera de <b>Ingenieria en informatica</b> en la UNAJ .<br/>
-🚀 Escucho propuestas laborales o para proyectos.😊 <br /> <br />
+Soy una persona a la cual le gusta todo lo que es programar, lo relacionado a la tecnologia ya que desde chico que me llama la atencion y me gusta, actualmente me sigo formando como FrontEnd pero en un futuro me gustaria poder llegar a ser un FullStack.
 
 <table border="0" align="center">
  <td><b style="font-size:30px">FrontEnd</b></td>
