@@ -1,3 +1,9 @@
+<style>
+.center{
+    width:550px;
+    margin:auto
+    }
+</style>
 <h1>
     ¡Hola!  Soy Marcos Villar, FrontEnd developer   <img 
      src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"
@@ -14,7 +20,7 @@
 <h3>
     Tecnologias que domino
 </h3>
-<div align="center" dir="auto" style='width:550px;margin:auto'>
+<div align="center" dir="auto" class='center'>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
     <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
