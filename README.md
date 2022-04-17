@@ -1,11 +1,8 @@
 <h1 align="center">
-    <div>
     ¡Hola!  Soy Marcos Villar, FrontEnd developer   <img 
      src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"
       width="30"  
     />👨🏻‍💻
-    </div>
-    <br />
 </h1>
 <br/>
 <h2 align="left">👨🏻‍💻 Sobre mi:</h2>
